@@ -1,5 +1,7 @@
 <!-- Header Section -->
 <div align="center">
+  <img src="https://media.giphy.com/media/Hp4lpkyhQqJwY/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Matrix Rain" />
+
   <!-- Animated Intro -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Building+Digital+Worlds;Full+Stack+%26+Game+Dev" alt="Neon Typing Intro" />
@@ -18,7 +20,7 @@
 
 <!-- Pacman Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="600" alt="Pacman" />
 </div>
 
 <br/>
@@ -58,7 +60,7 @@
 
 <!-- Pacman Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="600" alt="Pacman" />
 </div>
 
 <br/>
@@ -67,27 +69,25 @@
 <div align="center">
   <h2 style="color: #00ff00;">GitHub Statistics</h2>
   
-  <!-- Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <p>
+    <!-- Note: These will only show data if you have public repositories and commits! -->
+    <a href="https://github.com/alvahraa">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
+    </a>
+  </p>
   
   <br/>
-  <br/>
   
-  <!-- Most Used Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  
-  <br/>
-  <br/>
-  
-  <!-- Trophy -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- Trophy (Hidden by default until activity exists, uncomment to show) -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> -->
 </div>
 
 <br/>
 
 <!-- Pacman Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="600" alt="Pacman" />
 </div>
 
 <br/>
