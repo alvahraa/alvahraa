@@ -67,31 +67,10 @@
 <div align="center">
   <h2 style="color: #00ff00;">GitHub Statistics</h2>
   
-  <!-- Stats Row -->
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvahraa&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
-  </p>
-  
-  <br/>
-  
   <!-- Activity Graph -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
   <br/>
-  <br/>
-  
-  <!-- Popular Repositories -->
-  <h3 style="color: #00ff00;">Popular Repositories</h3>
-  <p>
-    <a href="https://github.com/alvahraa/repo1">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=repo1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="Repo 1" />
-    </a>
-    <a href="https://github.com/alvahraa/repo2">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=repo2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="Repo 2" />
-    </a>
-  </p>
-  
   <br/>
   
   <!-- Most Used Languages -->
