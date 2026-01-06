@@ -1,10 +1,5 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Hp4lpkyhQqJwY/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Matrix Rain" />
-  
-  <br/>
-  <br/>
-
   <!-- Visitor Counter -->
   <a href="https://github.com/alvahraa">
     <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00" alt="Visitor Counter" />
@@ -16,22 +11,15 @@
 <!-- Animated Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Full+Stack+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Building+Digital+Worlds+%F0%9F%8C%90" alt="Neon Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Full+Stack+Developer;Game+Developer;Building+Digital+Worlds" alt="Neon Typing Intro" />
   </a>
-</div>
-
-<br/>
-
-<!-- Pacman Separator -->
-<div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="600" alt="Pacman Separator" />
 </div>
 
 <br/>
 
 <!-- Tech Stack -->
 <div align="center">
-  <h2 style="color: #00ff00;">⚔️ THE ARSENAL ⚔️</h2>
+  <h2 style="color: #00ff00;">THE ARSENAL</h2>
   
   <!-- Languages -->
   <p>
@@ -57,7 +45,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2 style="color: #00ff00;">📊 PLAYER STATS 📊</h2>
+  <h2 style="color: #00ff00;">PLAYER STATS</h2>
   
   <p>
     <a href="https://github.com/alvahraa">
@@ -65,12 +53,4 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
     </a>
   </p>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="200" alt="Game Over" />
-  <p style="font-family: monospace;">GAME OVER.<br/>INSERT COIN TO CONTINUE...</p>
 </div>
