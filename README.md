@@ -1,4 +1,6 @@
+<!-- Header Section -->
 <div align="center">
+  <!-- Animated Intro -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Building+Digital+Worlds;Full+Stack+%26+Game+Dev" alt="Neon Typing Intro" />
   </a>
@@ -6,21 +8,27 @@
   <br/>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00" alt="Visitor Counter" />
+  <!-- Visitor Counter -->
+  <a href="https://github.com/alvahraa">
+    <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00" alt="Visitor Counter" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Pacman Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfemKBCbHCIEI/giphy.gif" width="600" alt="Pacman" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
 </div>
 
 <br/>
 
+<!-- Tech Stack -->
 <div align="center">
-  <h2>Technologies & Tools</h2>
+  <h2 style="color: #00ff00;">Technologies & Tools</h2>
 
-  <h3>Languages</h3>
+  <!-- Languages -->
+  <h3 style="color: #ffffff;">Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -31,13 +39,15 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </p>
 
-  <h3>Frontend & Frameworks</h3>
+  <!-- Frameworks & Frontend -->
+  <h3 style="color: #ffffff;">Frontend & Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
 
-  <h3>Game Development & Tools</h3>
+  <!-- Game Dev & Tools -->
+  <h3 style="color: #ffffff;">Game Development & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -46,27 +56,48 @@
 
 <br/>
 
+<!-- Pacman Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfemKBCbHCIEI/giphy.gif" width="600" alt="Pacman" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
 </div>
 
 <br/>
 
+<!-- GitHub Stats -->
 <div align="center">
-  <h2>GitHub Statistics</h2>
+  <h2 style="color: #00ff00;">GitHub Statistics</h2>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=react&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <!-- Activity Graph -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   
-  <br/><br/>
+  <br/>
+  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+  <!-- Most Used Languages -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
   
-  <br/><br/>
+  <br/>
+  <br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" width="98%" alt="GitHub Trophies" />
+  <!-- Trophy -->
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
+<!-- Pacman Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfemKBCbHCIEI/giphy.gif" width="600" alt
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <h3 style="color: #00ff00;">Connect With Me</h3>
+  <p>
+    <a href="https://github.com/alvahraa">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
