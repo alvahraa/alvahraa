@@ -15,6 +15,12 @@
 </div>
 
 <br/>
+
+<!-- Pacman Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+</div>
+
 <br/>
 
 <!-- Tech Stack -->
@@ -50,30 +56,59 @@
 
 <br/>
 
-<!-- GitHub Stats - Modern Version -->
+<!-- Pacman Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
 <div align="center">
   <h2 style="color: #00ff00;">GitHub Statistics</h2>
   
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvahraa&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <!-- Stats Row -->
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvahraa&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  </p>
   
   <br/>
+  
+  <!-- Activity Graph -->
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  
+  <br/>
+  <br/>
+  
+  <!-- Popular Repositories -->
+  <h3 style="color: #00ff00;">Popular Repositories</h3>
+  <p>
+    <a href="https://github.com/alvahraa/repo1">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=repo1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="Repo 1" />
+    </a>
+    <a href="https://github.com/alvahraa/repo2">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=repo2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="Repo 2" />
+    </a>
+  </p>
+  
   <br/>
   
   <!-- Most Used Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
-  
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
   
   <br/>
   <br/>
   
   <!-- Trophy -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- Pacman Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
 </div>
 
 <br/>
@@ -86,9 +121,4 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alvahraa/alvahraa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
