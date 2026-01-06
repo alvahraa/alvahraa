@@ -1,7 +1,5 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/Hp4lpkyhQqJwY/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Matrix Rain" />
-
   <!-- Animated Intro -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Building+Digital+Worlds;Full+Stack+%26+Game+Dev" alt="Neon Typing Intro" />
@@ -17,12 +15,6 @@
 </div>
 
 <br/>
-
-<!-- Pacman Separator -->
-<div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="600" alt="Pacman Separator" />
-</div>
-
 <br/>
 
 <!-- Tech Stack -->
@@ -58,16 +50,30 @@
 
 <br/>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - Modern Version -->
 <div align="center">
   <h2 style="color: #00ff00;">GitHub Statistics</h2>
   
-  <p>
-    <a href="https://github.com/alvahraa">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="Top Languages" />
-    </a>
-  </p>
+  <!-- GitHub Stats Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alvahraa&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  
+  <br/>
+  <br/>
+  
+  <!-- Most Used Languages -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+  
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  
+  <br/>
+  <br/>
+  
+  <!-- Trophy -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -80,4 +86,9 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alvahraa/alvahraa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
