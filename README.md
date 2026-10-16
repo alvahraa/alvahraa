@@ -1,103 +1,60 @@
-<!-- Header Section -->
 <div align="center">
-  <!-- Animated Intro -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Alvah+Rabbany;Building+Digital+Worlds;Full+Stack+%26+Game+Dev" alt="Neon Typing Intro" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <!-- Visitor Counter -->
   <a href="https://github.com/alvahraa">
-    <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00" alt="Visitor Counter" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=620&lines=Hi,+I'm+Alvah+Rabbany;Full-Stack+%26+AI+Tools+Developer;Building+Digital+Worlds" alt="Hi, I'm Alvah Rabbany" />
   </a>
-</div>
-
-<br/>
-
-<!-- Pacman Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
-</div>
-
-<br/>
-
-<!-- Tech Stack -->
-<div align="center">
-  <h2 style="color: #00ff00;">Technologies & Tools</h2>
-
-  <!-- Languages -->
-  <h3 style="color: #ffffff;">Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </p>
-
-  <!-- Frameworks & Frontend -->
-  <h3 style="color: #ffffff;">Frontend & Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </p>
-
-  <!-- Game Dev & Tools -->
-  <h3 style="color: #ffffff;">Game Development & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </p>
-</div>
-
-<br/>
-
-<!-- Pacman Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
-</div>
-
-<br/>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <h2 style="color: #00ff00;">GitHub Statistics</h2>
-  
-  <!-- Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvahraa&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-  
   <br/>
-  <br/>
-  
-  <!-- Most Used Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  
-  <br/>
-  <br/>
-  
-  <!-- Trophy -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=alvahraa&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00&label=profile+views" alt="Profile views" />
 </div>
 
-<br/>
-
-<!-- Pacman Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Pacman" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" />
 </div>
 
-<br/>
+## About me
 
-<!-- Footer -->
+- Developer from Indonesia who builds web apps for real users and AI-powered tools.
+- Built the visitor analytics dashboard and QR self check-in form for the **UNISSULA Library**.
+- Working on an automatic **Japanese to Indonesian manga translator** that detects text, translates it with an LLM,
+  erases the original lettering, and typesets the translation back into the speech bubbles.
+- Interested in practical AI: OCR, LLM tooling, and MCP servers that let assistants work with real data.
+- Fueled by coffee.
+
+## Featured projects
+
 <div align="center">
-  <h3 style="color: #00ff00;">Connect With Me</h3>
-  <p>
-    <a href="https://github.com/alvahraa">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <a href="https://github.com/alvahraa/manga-tl-prototype"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=manga-tl-prototype&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="manga-tl-prototype" /></a>
+  <a href="https://github.com/alvahraa/seclog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=seclog&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="seclog" /></a>
+  <a href="https://github.com/alvahraa/prototype-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=prototype-dashboard&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="prototype-dashboard" /></a>
+  <a href="https://github.com/alvahraa/perpustakaan-absensi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvahraa&repo=perpustakaan-absensi&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="perpustakaan-absensi" /></a>
+</div>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**manga-tl-prototype**](https://github.com/alvahraa/manga-tl-prototype) | Automatic manga translator (JP to ID): text detection, OCR, LLM translation, inpainting, typesetting, layered PSD export | Python · ONNX · LaMa · Claude / Gemini |
+| [**seclog**](https://github.com/alvahraa/seclog) | Self-hosted web log security dashboard with detection rules and an MCP server for LLM clients | Go · React · SQLite · Docker · MCP |
+| [**prototype-dashboard**](https://github.com/alvahraa/prototype-dashboard) | Library analytics dashboard: visits, peak hours, faculties, loans, lockers, Excel export | React · Node.js · Express · PostgreSQL · Tailwind |
+| [**perpustakaan-absensi**](https://github.com/alvahraa/perpustakaan-absensi) | Self check-in form for library visitors, with a QR code per room | HTML · CSS · JavaScript |
+| [**sistem-perpustakaan-php**](https://github.com/alvahraa/sistem-perpustakaan-php) | Library management system: catalog, members, circulation, OPAC, member cards | PHP · MySQL · Chart.js |
+
+## Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,js,html,css,php,react,nodejs,express,tailwind,postgres,mysql,sqlite,docker,git,unity,cs,cpp&perline=9" alt="Python, Go, JavaScript, HTML, CSS, PHP, React, Node.js, Express, Tailwind, PostgreSQL, MySQL, SQLite, Docker, Git, Unity, C#, C++" />
+</div>
+
+## GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alvahraa&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvahraa&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=alvahraa&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="Contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/alvahraa"><img src="https://img.shields.io/badge/GitHub-alvahraa-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
