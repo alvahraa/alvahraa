@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=620&lines=Building+web+apps+for+real+users;Making+AI+tools+that+actually+help;Currently:+an+AI+manga+translator+(JP+%E2%86%92+ID);Building+Digital+Worlds" alt="Building web apps for real users, making AI tools that actually help" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=alvahraa&style=flat-square&color=00ff00&label=profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alvahraa.alvahraa&left_text=profile%20views&left_color=%23161b22&right_color=%2300c853" alt="Profile views" />
 </div>
 
 ## About me
