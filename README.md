@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0b3d1a,100:00C853&height=190&section=header&text=Alvah%20Rabbany&fontSize=52&fontColor=00FF00&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Tools%20Developer&descAlignY=58&descSize=18" alt="Alvah Rabbany, Full-Stack & AI Tools Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0b3d1a,100:00C853&height=190&section=header&text=Alvah%20Rabbany&fontSize=52&fontColor=00FF00&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%20Tools%20Developer&descAlignY=58&descSize=18" alt="Alvah Rabbany, Full-Stack and AI Tools Developer" />
 
 <div align="center">
   <a href="https://github.com/alvahraa">
