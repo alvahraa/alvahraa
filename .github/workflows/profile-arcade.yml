@@ -1,0 +1,61 @@
+# Animasi "game" di README profil, dibuat dari grafik kontribusi dan diperbarui otomatis.
+# Hasilnya dikirim ke branch `output` (bukan main), jadi riwayat main tetap bersih.
+name: profile arcade
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # tiap 12 jam
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-arcade.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-arcade
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - name: Snake
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#16a34a&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Pac-Man, Galaga, Breakout, Bomberman
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa   # main, 2026-08-01
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman,galaga,breakout,bomberman
+
+      - name: Grafik kontribusi 3D
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Kumpulkan hasil
+        run: |
+          cp profile-3d-contrib/profile-night-green.svg dist/3d-contrib-dark.svg
+          cp profile-3d-contrib/profile-green-animate.svg dist/3d-contrib.svg
+          ls -la dist
+
+      - name: Kirim ke branch output
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: "update profile arcade"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
